@@ -1,8 +1,5 @@
-test
+#include
 
-
-
-
-dev001
-
-test
+main() {
+    printf("hello")
+}
