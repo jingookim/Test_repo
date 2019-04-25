@@ -1,15 +1,5 @@
-TEST
+#include
 
-한글 테스트
-
-
-
-test
-
-
-
-TESTzzzzz
-
-dev001
-
-test
+main() {
+    printf("hello")
+}
